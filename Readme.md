@@ -17,9 +17,11 @@
 [![](https://img.shields.io/badge/-Steam-4682B4?logo=steam&style=flat-square&logoColor=ffffff)](https://store.steampowered.com/)
 [![](https://img.shields.io/badge/-Epic%20Games-000000?logo=epicgames&style=flat-square&logoColor=ffffff)](https://www.epicgames.com/)
 [![enter description here](https://img.shields.io/badge/-Ubisoft-4169E1?logo=ubisoft&style=flat-square&logoColor=ffffff)](https://www.ubisoft.com/)
+[![](https://img.shields.io/badge/-Origin-FF4500?logo=origin&style=flat-square&logoColor=ffffff)](https://www.origin.com/)
 #### Genshin Impact
 ![](https://genshin-card.himiku.com/rand/194060228.png)
-<span style="text-decoration:line-through;">我就是个垃圾</span>
+
+<s>我就是个垃圾</s>
 
 <table>
 <tr>
