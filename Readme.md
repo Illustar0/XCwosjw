@@ -1,6 +1,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/XCwosjw/CDN@main/Pic/19711.png">
-  <a href="https://counter.xcwosjw.com/"><img src="https://counter.xcwosjw.com/get/@Github-Readme"></a>
+  <a href="https://counter.xcwosjw.com/"><img src="https://counter.xcwosjw.com/get/@Github-Readme" align='right'></a>
+  
+  <s>方块人的死亡凝视</s>
 </p>
 
 #### OS&Devices&Tools
