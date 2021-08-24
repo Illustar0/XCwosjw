@@ -1,5 +1,5 @@
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/XCwosjw/CDN@main/Pic/19711.png">
+  <img src="https://cdn.jsdelivr.net/gh/XCwosjw/CDN/Pic/19711.png">
   <a href="https://counter.xcwosjw.com/"><img src="https://counter.xcwosjw.com/get/@Github-Readme" align='right'></a>
   
   <s>方块人的死亡凝视</s>
@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/-Python-1E90FF?logo=python&style=flat-square&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 
-[![](https://img.shields.io/badge/-Steam-4682B4?logo=steam&style=flat-square&logoColor=ffffff)](https://store.steampowered.com/)
+[![](https://img.shields.io/badge/-Steam-4682B4?logo=steam&style=flat-square&logoColor=ffffff)](https://steamcommunity.com/id/XCwosjw/)
 [![](https://img.shields.io/badge/-Epic%20Games-000000?logo=epicgames&style=flat-square&logoColor=ffffff)](https://www.epicgames.com/)
 [![enter description here](https://img.shields.io/badge/-Ubisoft-4169E1?logo=ubisoft&style=flat-square&logoColor=ffffff)](https://www.ubisoft.com/)
 [![](https://img.shields.io/badge/-Origin-FF4500?logo=origin&style=flat-square&logoColor=ffffff)](https://www.origin.com/)
