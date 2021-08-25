@@ -25,6 +25,11 @@
 
 <s>我就是个垃圾</s>
 
+#### osu!
+[![](https://osusig.lolicon.app/sig.php?colour=hex66ccff&uname=XCwosjw&pp=2&countryrank&xpbar)](https://osu.ppy.sh/users/25313499)
+
+<s>实锤了，垃圾+手残</s>
+
 <table>
 <tr>
 <td valign="top" width="50%">
