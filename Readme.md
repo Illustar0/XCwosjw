@@ -37,7 +37,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 最近我在Steam上玩…</a>
 ```text
-🎮 Battlefield 1 ™                  🕘 103 hrs 48 mins
+🎮 Battlefield 1 ™                  🕘 104 hrs 19 mins
 🎮 Battlefield™ V                   🕘 57 hrs 34 mins
 🎮 Fallout 4                        🕘 51 hrs 30 mins
 🧟 Left 4 Dead 2                    🕘 19 hrs 18 mins
