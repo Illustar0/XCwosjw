@@ -40,7 +40,7 @@
 🎮 Battlefield 1 ™                  🕘 120 hrs 18 mins
 🎮 Battlefield™ V                   🕘 58 hrs 43 mins
 🎮 Fallout 4                        🕘 51 hrs 30 mins
-💻 Wallpaper Engine                 🕘 20 hrs 4 mins
+💻 Wallpaper Engine                 🕘 21 hrs 5 mins
 🧟 Left 4 Dead 2                    🕘 19 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
