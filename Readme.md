@@ -38,7 +38,7 @@
 #### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 最近我在Steam上玩…</a>
 ```text
 🎮 Battlefield 1 ™                  🕘 120 hrs 29 mins
-🎮 Battlefield™ V                   🕘 59 hrs 12 mins
+🎮 Battlefield™ V                   🕘 59 hrs 35 mins
 🎮 Fallout 4                        🕘 51 hrs 30 mins
 💻 Wallpaper Engine                 🕘 30 hrs 19 mins
 🧟 Left 4 Dead 2                    🕘 19 hrs 18 mins
