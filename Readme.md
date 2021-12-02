@@ -37,10 +37,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 最近我在Steam上玩…</a>
 ```text
-🎮 Battlefield 1 ™                  🕘 120 hrs 29 mins
-🎮 Battlefield™ V                   🕘 59 hrs 35 mins
+🎮 Battlefield 1 ™                  🕘 124 hrs 26 mins
+🎮 Battlefield™ V                   🕘 62 hrs 20 mins
 🎮 Fallout 4                        🕘 51 hrs 30 mins
-💻 Wallpaper Engine                 🕘 31 hrs 45 mins
+💻 Wallpaper Engine                 🕘 33 hrs 40 mins
 🧟 Left 4 Dead 2                    🕘 19 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
