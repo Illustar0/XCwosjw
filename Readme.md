@@ -1,9 +1,10 @@
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/XCwosjw/CDN/Pic/19711.png">
-  <a href="https://counter.xcwosjw.com/"><img src="https://counter.xcwosjw.com/get/@Github-Readme" align='right'></a>
-  
-  <s>方块人的死亡凝视</s>
-</p>
+### Hi there 👋
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XCwosjw&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
+
+I'm **XCwosjw**
 
 #### OS&Devices&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
