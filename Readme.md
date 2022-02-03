@@ -6,6 +6,10 @@
 
 I'm **XCwosjw**
 
+- A senior high school student
+- I’m learning: Python, C++
+- I like play Computer games
+
 #### OS&Devices&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/OS-Centos-33aadd?logo=centos&style=flat-square&logoColor=ffff)](https://www.centos.org/)
