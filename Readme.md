@@ -21,15 +21,6 @@ I'm **XCwosjw**
 [![](https://img.shields.io/badge/-Epic%20Games-000000?logo=epicgames&style=flat-square&logoColor=ffffff)](https://www.epicgames.com/)
 [![enter description here](https://img.shields.io/badge/-Ubisoft-4169E1?logo=ubisoft&style=flat-square&logoColor=ffffff)](https://www.ubisoft.com/)
 [![](https://img.shields.io/badge/-Origin-FF4500?logo=origin&style=flat-square&logoColor=ffffff)](https://www.origin.com/)
-#### Genshin Impact
-![](https://genshin-card.himiku.com/rand/194060228.png)
-
-<s>我就是个垃圾</s>
-
-#### osu!
-[![](https://osusig.lolicon.app/sig.php?colour=hex66ccff&uname=XCwosjw&pp=2&countryrank&xpbar)](https://osu.ppy.sh/users/25313499)
-
-<s>实锤了，垃圾+手残</s>
 
 <table>
 <tr>
