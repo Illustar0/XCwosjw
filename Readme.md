@@ -31,7 +31,7 @@ I'm **XCwosjw**
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 No Game No Life-Steam</a>
+#### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 最近我在Steam上玩…</a>
 ```text
 🎮 Battlefield 1 ™                  🕘 126 hrs 13 mins
 🎮 Battlefield™ V                   🕘 62 hrs 23 mins
