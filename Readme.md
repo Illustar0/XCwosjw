@@ -11,8 +11,8 @@ I'm **XCwosjw**
 - I like play Computer games
 
 #### OS&Devices&Tools
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/OS-Centos-33aadd?logo=centos&style=flat-square&logoColor=ffff)](https://www.centos.org/)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/OS-Ubuntu-33aadd?logo=ubuntu&style=flat-square&logoColor=ffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Android-11-3CB371?logo=android&style=flat-square&logoColor=ffffff)](https://www.android.com/)
 
 [![](https://img.shields.io/badge/Redmi-K30%20Ultra-FF4500?logo=xiaomi&style=flat-square&logoColor=ffffff)](https://www.mi.com/)
@@ -23,7 +23,7 @@ I'm **XCwosjw**
 
 [![](https://img.shields.io/badge/-Steam-4682B4?logo=steam&style=flat-square&logoColor=ffffff)](https://steamcommunity.com/id/XCwosjw/)
 [![](https://img.shields.io/badge/-Epic%20Games-000000?logo=epicgames&style=flat-square&logoColor=ffffff)](https://www.epicgames.com/)
-[![enter description here](https://img.shields.io/badge/-Ubisoft-4169E1?logo=ubisoft&style=flat-square&logoColor=ffffff)](https://www.ubisoft.com/)
+[![](https://img.shields.io/badge/-Ubisoft-4169E1?logo=ubisoft&style=flat-square&logoColor=ffffff)](https://www.ubisoft.com/)
 [![](https://img.shields.io/badge/-Origin-FF4500?logo=origin&style=flat-square&logoColor=ffffff)](https://www.origin.com/)
 
 <table>
