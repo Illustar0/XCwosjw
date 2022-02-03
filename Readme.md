@@ -11,7 +11,7 @@ I'm **XCwosjw**
 - I like play Computer games
 
 #### OS&Devices&Tools
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows11)
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?logo=ubuntu&style=flat-square&logoColor=ffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Android-11-3CB371?logo=android&style=flat-square&logoColor=ffffff)](https://www.android.com/)
 
