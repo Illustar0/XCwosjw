@@ -37,7 +37,7 @@ I'm **XCwosjw**
 🎮 Battlefield™ V                   🕘 62 hrs 23 mins
 🎮 Fallout 4                        🕘 51 hrs 30 mins
 💻 Wallpaper Engine                 🕘 47 hrs 34 mins
-🎮 Lossless Scaling                 🕘 27 hrs 30 mins
+🎮 Lossless Scaling                 🕘 28 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
