@@ -34,10 +34,10 @@ I'm **XCwosjw**
 #### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 最近我在Steam上玩…</a>
 ```text
 🎮 Battlefield 1 ™                  🕘 126 hrs 15 mins
-🎮 Battlefield™ V                   🕘 62 hrs 37 mins
+🎮 Battlefield™ V                   🕘 63 hrs 2 mins
 🎮 Fallout 4                        🕘 51 hrs 30 mins
 💻 Wallpaper Engine                 🕘 47 hrs 35 mins
-🎮 Lossless Scaling                 🕘 35 hrs 20 mins
+🎮 Lossless Scaling                 🕘 36 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
