@@ -33,7 +33,7 @@ I'm **XCwosjw**
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 最近我在Steam上玩…</a>
 ```text
-🎮 Battlefield 1 ™                  🕘 126 hrs 38 mins
+🎮 Battlefield 1 ™                  🕘 126 hrs 40 mins
 🎮 Battlefield™ V                   🕘 76 hrs 31 mins
 🎮 Battlefield™ 2042                🕘 53 hrs 4 mins
 🎮 Fallout 4                        🕘 51 hrs 30 mins
