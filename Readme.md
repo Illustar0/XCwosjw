@@ -9,7 +9,7 @@ I'm **XCwosjw**
 - A senior high school student
 - I’m learning: Python, C#
 - I like play Computer games
-
+- ~~Procrastinator~~
 #### OS&Devices&Tools
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows11)
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?logo=ubuntu&style=flat-square&logoColor=ffff)](https://ubuntu.com/)
