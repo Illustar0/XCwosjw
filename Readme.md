@@ -7,7 +7,7 @@
 I'm **XCwosjw**
 
 - A senior high school student
-- I’m learning: Python, C++
+- I’m learning: Python, C#
 - I like play Computer games
 
 #### OS&Devices&Tools
