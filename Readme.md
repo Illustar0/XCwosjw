@@ -18,6 +18,7 @@ I'm **XCwosjw**
 [![](https://img.shields.io/badge/Redmi-K30%20Ultra-FF4500?logo=xiaomi&style=flat-square&logoColor=ffffff)](https://www.mi.com/)
 
 [![](https://img.shields.io/badge/-Pycharm-228B22?logo=pycharm&style=flat-square&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/VisualStudio-blue?logo=visualstudio&style=flat-square&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/-Python-1E90FF?logo=python&style=flat-square&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 
