@@ -19,8 +19,9 @@ I'm **XCwosjw**
 
 [![](https://img.shields.io/badge/-Pycharm-228B22?logo=pycharm&style=flat-square&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/VisualStudio-blue?logo=visualstudio&style=flat-square&logoColor=ffffff)](https://visualstudio.microsoft.com/)
+
 [![](https://img.shields.io/badge/-Python-1E90FF?logo=python&style=flat-square&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+
 
 [![](https://img.shields.io/badge/-Steam-4682B4?logo=steam&style=flat-square&logoColor=ffffff)](https://steamcommunity.com/id/XCwosjw/)
 [![](https://img.shields.io/badge/-Epic%20Games-000000?logo=epicgames&style=flat-square&logoColor=ffffff)](https://www.epicgames.com/)
