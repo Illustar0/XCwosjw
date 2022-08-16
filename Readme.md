@@ -34,7 +34,7 @@ I'm **XCwosjw**
 ```text
 🎮 Battlefield™ V                   🕘 132 hrs 30 mins
 🎮 Battlefield 1 ™                  🕘 129 hrs 34 mins
-🎮 Fallout 4                        🕘 60 hrs 39 mins
+🎮 Fallout 4                        🕘 62 hrs 21 mins
 🎮 Battlefield™ 2042                🕘 55 hrs 8 mins
 💻 Wallpaper Engine                 🕘 50 hrs 38 mins
 ```
