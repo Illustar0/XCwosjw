@@ -1,13 +1,13 @@
 name: Update steam playtime
 
 on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
-  schedule:
-    - cron: "15 * * * *"
-  workflow_dispatch:
+  #push:
+  #  branches: [main]
+  #pull_request:
+  #  branches: [main]
+  #schedule:
+  #  - cron: "15 * * * *"
+  #workflow_dispatch:
 
 jobs:
   build:
