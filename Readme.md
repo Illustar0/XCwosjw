@@ -30,13 +30,13 @@ I'm **XCwosjw**
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 最近我在Steam上玩…</a>
+#### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Battlefield™ V                   🕘 144 hrs 8 mins
-🎮 Battlefield 1 ™                  🕘 129 hrs 40 mins
-🎮 Fallout 4                        🕘 101 hrs 56 mins
-🎮 Battlefield™ 2042                🕘 56 hrs 52 mins
-💻 Wallpaper Engine                 🕘 50 hrs 38 mins
+🎮 Battlefield™ 2042                🕘 195 hrs 26 mins
+🎮 Battlefield™ V                   🕘 151 hrs 59 mins
+🎮 Fallout 4                        🕘 149 hrs 21 mins
+🎮 Battlefield 1 ™                  🕘 142 hrs 9 mins
+🎮 Stellaris                        🕘 104 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
