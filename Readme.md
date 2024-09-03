@@ -35,7 +35,7 @@ I'm **XCwosjw**
 🎮 Battlefield™ 2042                🕘 195 hrs 26 mins
 🎮 Battlefield™ V                   🕘 151 hrs 59 mins
 🎮 Fallout 4                        🕘 149 hrs 21 mins
-🎮 Battlefield 1 ™                  🕘 142 hrs 9 mins
+🎮 Battlefield 1 ™                  🕘 142 hrs 10 mins
 🎮 Stellaris                        🕘 105 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
