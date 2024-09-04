@@ -32,7 +32,7 @@ I'm **XCwosjw**
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ed622f4d750c79e86afebedddacdfef4" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Battlefield™ 2042                🕘 195 hrs 26 mins
+🎮 Battlefield™ 2042                🕘 195 hrs 28 mins
 🎮 Battlefield™ V                   🕘 151 hrs 59 mins
 🎮 Fallout 4                        🕘 149 hrs 21 mins
 🎮 Battlefield 1 ™                  🕘 142 hrs 10 mins
