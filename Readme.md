@@ -13,9 +13,9 @@ I'm **Illustar0**
 #### OS&Devices&Tools
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/software-download/windows11)
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?logo=ubuntu&style=flat-square&logoColor=ffff)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Android-14-3CB371?logo=android&style=flat-square&logoColor=ffffff)](https://www.android.com/)
+[![](https://img.shields.io/badge/Android-15-3CB371?logo=android&style=flat-square&logoColor=ffffff)](https://www.android.com/)
 
-[![](https://img.shields.io/badge/Redmi-K30%20Ultra-FF4500?logo=xiaomi&style=flat-square&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/Xiaomi-14%20Ultra-FF4500?logo=xiaomi&style=flat-square&logoColor=ffffff)](https://www.mi.com/)
 
 [![](https://img.shields.io/badge/-Pycharm-228B22?logo=pycharm&style=flat-square&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/-VisualStudio-blue?logo=visualstudio&style=flat-square&logoColor=ffffff)](https://visualstudio.microsoft.com/)
