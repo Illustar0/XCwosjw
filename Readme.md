@@ -15,7 +15,7 @@ I'm **Illustar0**
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?logo=ubuntu&style=flat-square&logoColor=ffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Android-15-3CB371?logo=android&style=flat-square&logoColor=ffffff)](https://www.android.com/)
 
-[![](https://img.shields.io/badge/Xiaomi-14%20Ultra-FF4500?logo=xiaomi&style=flat-square&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/Xiaomi-14-FF4500?logo=xiaomi&style=flat-square&logoColor=ffffff)](https://www.mi.com/)
 
 [![](https://img.shields.io/badge/-Pycharm-228B22?logo=pycharm&style=flat-square&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/-VisualStudio-blue?logo=visualstudio&style=flat-square&logoColor=ffffff)](https://visualstudio.microsoft.com/)
